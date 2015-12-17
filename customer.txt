@@ -1,0 +1,6 @@
+Name: new
+Price: $39.66
+Qty: 3
+ 
+SubTotal: $118.98
+ TOTAL: $127.31 
